@@ -1,0 +1,45 @@
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+  color: rgba(11, 8, 197, 0.849);
+
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color:#9900CC;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 0.5em;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 30%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#CFD8DC;
+}
+
+.bod{
+  background-color: rgb(63, 148, 63);
+}
+
+.footer {
+  padding: 20px 20px 20px 20px;
+  background-color: rgb(20, 20, 20);
+  color: #325288;
+  text-align: center;
+  width: 100%;
+   position: relative;
+  bottom: 0;
+}
